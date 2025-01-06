@@ -1,5 +1,14 @@
 # Eduquizz
 
+## Auteurs
+
+Étudiants du **Groupe A** :
+- [Tristan GAIDO](https://github.com/tristan-gaido)
+- [Eric GILLES](https://github.com/eric-gilles)
+- [Pablo LAVIRON](https://github.com/0lbap)
+- [Morgan NAVEL](https://github.com/MorganNavel)
+- [Enzo VIGUIER](https://github.com/enzo-viguier)
+
 ## Installation
 
 Pour installer la suite d'outils d'Eduquizz, suivez les instructions suivantes.
